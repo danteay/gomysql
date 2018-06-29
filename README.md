@@ -54,7 +54,7 @@ if errQuery != nil {
 }
 ```
 
-Helt check of the pool connection
+Healt check of the pool connection
 
 ```go
 fmt.Println("==>> State: ", pool.State())
